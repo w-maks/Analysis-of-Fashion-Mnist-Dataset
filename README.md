@@ -1,6 +1,6 @@
 # 📊 Analysis of Fashion MNIST Dataset
 **Author:** Wiktoria Maksymiak  
-**Album Number:** 418853  
+
 
 ---
 
