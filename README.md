@@ -25,7 +25,7 @@ The dataset is balanced (6,000 images per class), has no missing values, and is 
 
 Images were normalized to [0, 1], and a subset was created using `train_test_split(test_size=0.8, stratify=labels)`.
 
-![Sample Images](1/clothes.png)  
+![Sample Images](https://github.com/w-maks/Analysis-of-Fashion-Mnist-Dataset/blob/main/images/1/clothes.png)
 *Some examples from the dataset*
 
 ![Describe Output](1/describe.png)  
